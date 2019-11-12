@@ -1,8 +1,8 @@
-React-Settings
-A simple project for demonstrate how to build ReactJS applications.
+# React Setupe Project
 
-dependencies
-Yarn
-run
-  npm install || yarn
-  npm run dev || yarn dev
+Dependencies
+* Yarn
+
+Run:
+* npm install || yarn
+* npm run dev || yarn dev
