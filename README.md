@@ -1,4 +1,4 @@
-# React Setupe Project
+# React Setup Project
 
 Dependencies
 * Yarn
